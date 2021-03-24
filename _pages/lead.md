@@ -1,4 +1,5 @@
 ---
-layout: pages
-permanent link: lead
+layout: page
+title: Volunteer and Leadership
+permalink: /lead/
 ---
