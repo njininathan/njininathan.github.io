@@ -8,11 +8,16 @@ permalink: /education/
 #### Department of Telecommunications Engineering.
 
 > Location: Kumasi Metropolitan Area, Ghana.
+> 
 > Timeline: Aug. 2018 to Aug. 2022
+> 
 > <span style="color:blue">**Status**</span>: 3rd Year.
 > ##### Achievements
+> 
 > - College of Engineering award for academic excellence.
+> 
 > - Current Academic Board Chairman for Telecommunications Engineering student's Assocation.
+> 
 > - Executive member in the Cameroon Student's Association.
 
 ## Cameroon College of Arts, Science and Technology (CCAST), Lycee de Bambili.
