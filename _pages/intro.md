@@ -8,6 +8,6 @@ Hi, my name is Njini Nathan. I reside Ghana and study Engineering at Kwame Nkrum
 
 ![My Photograph](/images/profile.jpg)
 
-The intent of this profile site is to give useful and hopefully, more complete information about me and my experiences.
+The intent of this profile site is to give useful and hopefully, more complete information about me and my experiences. Read more about my education **[here](https://njininathan.github.io/education/)**
 
 
