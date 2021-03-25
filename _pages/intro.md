@@ -6,4 +6,4 @@ title: Intro
 
 Hi, my name is Njini Nathan. 
 
-I am currently a Telecomm. Engineering student in Kwame Nkrumah University of Science and Technology, Ghana. The intent of my profile site is to give useful and hopefully, more complete information about me and my experiences.
+The intent of this profile site is to give useful and hopefully, more complete information about me and my experiences.
