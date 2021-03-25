@@ -4,7 +4,7 @@ permalink: /home/
 title: Intro
 ---
 
-Hi, my name is Njini Nathan. I reside Ghana and study Engineering at Kwame Nkrumah University of Science and Technology, Ghana.
+Hi, my name is Njini Nathan. I reside in Ghana and study Engineering at Kwame Nkrumah University of Science and Technology, Ghana.
 
 ![My Photograph](/images/profile.jpg)
 
