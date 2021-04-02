@@ -27,8 +27,11 @@ Here, I highlight my skills and some courses I have taken
 > 
 > LaTeX and Markdown.
 > 
-### Other non-academic courses I have taken.
+#### Other non-academic courses I have taken.
 Thanks to coursera scholarships, I have been able to complete the following courses:
-> 3 Google IT Automation with Python courses on Coursera.
+>
+>  3 Google IT Automation with Python courses on Coursera.
+> 
 > Neural Networks and Deep Learning course by deeplearning.ai
+> 
 > 3 Python For Everyone courses by Michigan State University on Coursera.
