@@ -32,4 +32,4 @@ In addition, I created an executive board with 5 members that worked with me to 
 
 #### Bible studies group executive
 ###### National Union of Baptist Students, KNUST Ghana.
-I teach Sunday school in Church and perform executive tasks in the Bible Studies Wing of the Student Church.
+I teach Sunday school in Church and perform executive tasks in the Bible Studies Wing.
