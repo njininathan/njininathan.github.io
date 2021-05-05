@@ -43,9 +43,9 @@ The technical projects below include personal, collaborative and research projec
 > I am working with my buddy Osman to complete this project. Find him [here](https://github.com/osmanmamudu)
 > 
 >
-> Status: Ongoing.
+> Status: Ongoing.--->
 
-<!---### Shannon
+### Shannon
 > This mini-project implements Shannon-fano and Huffman algorithms for data compression.
 > 
 > A terminal tool that displays the tables and probability tree of the step-by-step solutions.
