@@ -26,4 +26,4 @@ Some of my previous internships include:
 
 > **Timeline**: 2020 - Present.
 > 
-> My project for this section is highlighted on the projects section [here](./projects)
+> My project for this section is highlighted on the projects section [here](https://njininathan.github.io/projects)
