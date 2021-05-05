@@ -45,7 +45,7 @@ The technical projects below include personal, collaborative and research projec
 >
 > Status: Ongoing.-->
 
-### Shannon
+<!--- ### Shannon
 > This mini-project implements Shannon-fano and Huffman algorithms for data compression.
 > 
 > A terminal tool that displays the tables and probability tree of the step-by-step solutions.
@@ -54,7 +54,7 @@ The technical projects below include personal, collaborative and research projec
 > 
 > Tools I used: **C++**.
 > 
-> Status: Completed.
+> Status: Completed.-->
 
 ### Touris
 > A simple website template I created to Master Html, Css and Basic Javascript.
